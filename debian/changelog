@@ -1,3 +1,11 @@
+python-quantumclient (2012.0+e3-rcb1) precise; urgency=low
+
+  * Steal packagingin from ubuntu, rebased from
+    https://github.com/openstack/python-quantumclient,
+    revision 52662fbb500a08dfdde63d8f1513bc882c3067a1
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Tue, 13 Mar 2012 14:14:41 -0700
+
 python-quantumclient (2012.1~e4-0ubuntu1) precise; urgency=low
 
   * New upstream release
