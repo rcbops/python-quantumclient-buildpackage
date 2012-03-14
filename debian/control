@@ -20,7 +20,7 @@ Architecture: all
 Section: python
 Replaces: quantum-client
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends},
-  quantum-common (>= 2012.1~e3)
+  quantum-common (>= 2012.0+e3)
 Description: client API library for Quantum
  Quantum provides an API to dynamically request and configure virtual networks.
  These networks connect "interfaces" from other OpenStack services (e.g., vNICs
