@@ -1,3 +1,9 @@
+python-quantumclient (2012.0+e3-rcb3) precise; urgency=low
+
+  * add runtime dep on python-quantum
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Wed, 14 Mar 2012 11:27:36 -0700
+
 python-quantumclient (2012.0+e3-rcb2) precise; urgency=low
 
   * fix deps on quantum-common
