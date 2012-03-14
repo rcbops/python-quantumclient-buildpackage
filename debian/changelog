@@ -1,3 +1,9 @@
+python-quantumclient (2012.0+e3-rcb2) precise; urgency=low
+
+  * fix deps on quantum-common
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Tue, 13 Mar 2012 21:56:28 -0700
+
 python-quantumclient (2012.0+e3-rcb1) precise; urgency=low
 
   * Steal packagingin from ubuntu, rebased from
